@@ -55,6 +55,6 @@ export default function kNN(
     }
   }
 
-  // Return the class with highest count.
+  // Return the class with the highest count.
   return topClass;
 }
